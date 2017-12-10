@@ -1,0 +1,26 @@
+{
+  "name": "editorCodigo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itanortega/editorCodigo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itanortega/editorCodigo/issues"
+  },
+  "homepage": "https://github.com/itanortega/editorCodigo#readme",
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "monaco-loader": "^0.8.2"
+  },
+  "dependencies": {}
+}
